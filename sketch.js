@@ -24,6 +24,7 @@ function draw() {
   x = space;
   for(let i = 0; i<n;i++){
     fill(map(nums[i],10,windowHeight-4-100,255,0));
+    noStroke();
     rect(x,0,thick,-nums[i]);
     x+=space+thick;
   }
