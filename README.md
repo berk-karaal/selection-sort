@@ -1,2 +1,2 @@
 # selection-sort
-[Try it](http://berkkaraal.com/selection-sort/)
+[Try it](https://berkkaraal.com/p5js/selection-sort/)
